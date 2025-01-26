@@ -16,7 +16,7 @@ This project includes:
 - **Containerization**: Dockerized Django and React apps.
 - **CI/CD**: Automated testing and deployment using GitHub Actions.
 - **Database**: PostgreSQL for data storage.
-- **Hosting**: Deployed on [Platform Name] (e.g., AWS, Heroku, etc.).
+- **Hosting**: Deployed on [AWS] 
 
 ---
 
